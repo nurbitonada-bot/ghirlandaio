@@ -66,7 +66,7 @@ Daftar Pustaka.
 1.1 Latar Belakang
 Perkembangan teknologi yang semakin pesat telah membawa perubahan besar dalam kehidupan manusia. teknologi Kini tidak hanya berperan sebagaia alat untuk mempermudah pekerjaan, Tetapi juga telah menjadi  bagian dari gaya hidup dan identitas sosial. Dalam kondisi ini, Teknologi sering kali di pandang sebagai sesuatu yang selalu membawa kemajuan dan solusi, sehingga tanpa disadari telah membentuk suatu "mitos modern" dalam masyarakat. Pandangan ini membuat manusia cenderung menerima teknologi secara apa adanya tanpa mempertanyakan dampak maupun konsekuensinya. 
 
-Selain itu, melalui pemikiran Jean Baudrillard, teknologi juga dipahami sebagai sarana yang mampu menciptakan hiperrialitas, yaitu kondisi dimana batas antara realitas dan simulasi menjadi kabur. Dalam Media Sosial misalnya, memungkinkan individu menampilkan versi diri yang telah dibentuk sedemikian rupa sehingga nampak lebih ideal dibandingkanrealitas sebenarnya. 
+Selain itu, melalui pemikiran Jean Baudrillard, Teknologi juga dipahami sebagai sarana yang mampu menciptakan hiperrialitas, yaitu kondisi dimana batas antara realitas dan simulasi menjadi kabur. Dalam Media Sosial misalnya, memungkinkan individu menampilkan versi diri yang telah dibentuk sedemikian rupa sehingga nampak lebih ideal dibandingkanrealitas sebenarnya. 
 
 Fenomena ini menimbulkan pergeseran cara manusia memahami dunia, dimana realitas yang ditampilkan melalui teknologi seringkali lebih dipercaya dibandingkan pengalaman nyata. Oleh karena itu, penting untuk mengkaji lebih dalam bagaimana teknologi berperan sebagai mitos sekaligus sebagai pembentuk himperrialitas. 
 
@@ -91,11 +91,11 @@ Fenomena ini menimbulkan pergeseran cara manusia memahami dunia, dimana realitas
 
 Pengertian Mitos dalam konteks Sosial  Mitos dalam kajian teori sosial Mitos dalam Kajian teori sosial bukan berarti cerita bohong atau dongeng atau dongeng. Ronald Barthes dalam Mythologies (1957) mendefinisikan mitos sebagai sistem pemaknaan tingkat kedua, dimana sesuatu yang sebenarnya merupakan kontruksi sosial dan historis  tampak sosial dan historis tampak seolah olah alamiah, wajar, dan tidak perlu di pertanyakan. Mitos bekerja dengan cara menyembunyikan proses pembentukannnya. Sesuatu yang lahir dari kepentingan tertentu akhirnya diterima masyarakat sebagai kebenaran universal. Barthes menegaskan bahwa mitos mengubah sejarah menjadi sesuatu yng tampak seperti alam seolah hal tersebut memang sudah sewajarnya  terjadi.
 
-Awal mula teknologi bisa disebut Mitos itu karenaa teknologi kerap dinarasikan sebagai simbol kemajuan peradaban solusi atas segala permasalahan manusia sesuatu yang netral dan objektif penanda seseorang modern dan relevan narasi narasi ini diterima begitu saja tanpa proses kritis. inilah yang menjadikan teknologi bukan sekedar alat, melainkan sebuah mitos modern. Baudirillard  dalam The Consumer Society (1970) menegaskan bahwa masyarakat konsumsi modern dibangun atas berbagai mitos, termasuk mitos tentang kemajuan teknologi sebagai mitos melalui tiga mekanisme utama :
+Awal mula teknologi bisa disebut mitos itu karena teknologi kerap dinarasikan sebagai simbol kemajuan peradaban solusi atas segala permasalahan manusia sesuatu yang netral dan objektif penanda seseorang modern dan relevan narasi narasi ini diterima begitu saja tanpa proses kritis. inilah yang menjadikan teknologi bukan sekedar alat, melainkan sebuah mitos modern. Baudirillard  dalam The Consumer Society (1970) menegaskan bahwa masyarakat konsumsi modern dibangun atas berbagai mitos, termasuk mitos tentang kemajuan teknologi sebagai mitos melalui tiga mekanisme utama :
 
 1. Naturalisasi
 
-Teknologi dianggap sebagai sesuatu yang sudah seharusnya ada dan tidak bisa di hindari .  Perkembangan teknologi diterima seolah ia adalah hukum alam, bukan hasil dari pilihan sosial dan kepentingan tertentu. Contoh, "wajar kalau semua orang sekarang punya smartphone".
+Teknologi dianggap sebagai sesuatu yang sudah seharusnya ada dan tidak bisa di hindari.  Perkembangan teknologi diterima seolah ia adalah hukum alam, bukan hasil dari pilihan sosial dan kepentingan tertentu. Contoh, "wajar kalau semua orang sekarang punya smartphone".
 
 2. Universalisasi
 
