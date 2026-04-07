@@ -116,10 +116,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp;Sedangkan itu, Kontribusi hacking culture terhadap teknologi modern adalah lahirnya teknologi dasar seperti internet melalui pengembangan ARPANET, komputer pribadi, jaringan internet, dan teknologi antarkemuka pengguna. Konsep "superkomunitas" yang dikembangkan oleh Bob Taylor menunjukkan bagaimana teknologi dapat menghubungkan manusia tanpa batas geografis. Mereka mengembangkan berbagi teknologi melalui pendekatan tanpa trial and error yang menunjukkan kegagalan merupakan bagian dari proses inovasi.
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kontribusi bukan hanya berupa perangkat keras atau lunak saja, melainkan sebuah kerangka berpikir baru yang menempatkan teknologi di tangan individu. Budaya ini yang telah mengubah komputer dari sekeldar "alat hitung" menjadi "alat komunikasi" dan kreativitas yang kita gunakan setiap hari dalam kehidupan modern. 
-</p>
-<p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Hacking culture turut membentuk ekosistem Silicon Valley sebagai pusat inovasi global. Lingkungan yang mendukung kebebasan bereksperimen dan toleransi terhadap kegagalan memungkinkan para inovator untuk terus menciptakan teknologi baru.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kontribusi bukan hanya berupa perangkat keras atau lunak saja, melainkan sebuah kerangka berpikir baru yang menempatkan teknologi di tangan individu. Budaya ini yang telah mengubah komputer dari sekeldar "alat hitung" menjadi "alat komunikasi" dan kreativitas yang kita gunakan setiap hari dalam kehidupan modern. Hacking culture turut membentuk ekosistem Silicon Valley sebagai pusat inovasi global. Lingkungan yang mendukung kebebasan bereksperimen dan toleransi terhadap kegagalan memungkinkan para inovator untuk terus menciptakan teknologi baru.  
 </p>
 
 **2.4. Sejarah dan Pola Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
