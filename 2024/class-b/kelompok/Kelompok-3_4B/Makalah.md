@@ -5,7 +5,7 @@
 
 # KATA PENGANTAR
 Puji syukur kami panjatkan atas kehadirat Allah Swt yang telah melimpahkan rahmat dan hidayah-Nya sehingga kami dapat 
-menyelesaikan makalah yang berjudul “.....”. 
+menyelesaikan makalah yang berjudul “Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka”. 
 Tidak lupa kami mengucapkan terimakasih kepada Bapak Al Muhdil Karim, S. IP., M. Hum. 
 selaku dosen pengampu mata kuliah Perpustakaan dan Arsip Digital  yang telah memberikan tugas ini, 
 sehingga dapat menambah pengetahuan dan wawasan.
