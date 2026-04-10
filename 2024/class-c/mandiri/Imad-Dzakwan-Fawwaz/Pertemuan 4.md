@@ -15,5 +15,6 @@ Closed source memberikan dampak keterbatasan kontrol, kurangnya transparansi dan
 
 ---
 ## Daftar Pustaka
-[^1] Raymond, Eric S. 1999. *The Cathedral and the Bazaar.*
-[^2] Berlin, Leslie. 2017. *Troublemakers: Silicon Valley's Coming of Age.*
+[^1]: Raymond, Eric S. 1999. *The Cathedral and the Bazaar.*
+
+[^2]: Berlin, Leslie. 2017. *Troublemakers: Silicon Valley's Coming of Age.*
