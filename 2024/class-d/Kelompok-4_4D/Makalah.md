@@ -19,6 +19,12 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
  Penulis tentu menyadari bahwa makalah ini masih jauh dari kata sempurna dan masih banyak terdapat kesalahan serta kekurangan didalamnya. Untuk itu, penulis mengharapkan kritik serta saran dari pembaca untuk makalah ini, supaya makalah ini nantinya dapat menjadi makalah yang lebih baik lagi. demikian, dan apabila terdapat banyak kesalahan pada makalah ini, penulis mohom maaf sebesar-besarnya. 
  Penulis juga mengucapkan terimakasih kepada dosen pengampu Bapak Al Muhdil Karim S.IP., M.Hum.
  Demikian, semoga makalah ini dapat bermanfaat, Terimakasih.
+ 
+ # BAB I : PENDAHULUAN
+ ## 1.1 Latar Belakang
+ Perkembangan teklogi saat ini terjadi lebih cepat dan memiliki dampak yang lebih besar dari pada masa masa sebelumnya. kerjasama antara berbagai teknologi yang sebelumnya independen kini menyebabkan efek percepatan yang tidak terduga, menciptakan dunia yang lebih kaya, efisien, dan interaktif melalui teknologi melalui penggunaan teknologi informasi dan komunikasi (tik) disegala sudut pandang kehidupan. Namun, kemajuan ini membawa pertentangan yang mendasar: **semakin besar ketergantungan kita pada sistem TIK, semakin besar pula kerentanan yang kita miliki**, karna pada dasarnya sistem TIK tidak pernah bisa sepenuhnya aman atau terlindungi secara mutlak.
+ Dalam lingkungan digital yang semakin rumit ini, ancaman siber semakin berkembang menjadi isu umum yang sangat serius.
+ 
 
 # Tujuan
 1. Untuk mengetahui dan menjelaskan 5 hukum perpustakaan.
